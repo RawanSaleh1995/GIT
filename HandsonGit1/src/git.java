@@ -1,7 +1,7 @@
 
 public class git {
 
-	public void conflict1(){
-		System.out.println("test the conflict 1");
+	public void conflict2(){
+		System.out.println("test the conflict 2");
 	}
 }
